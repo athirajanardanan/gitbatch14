@@ -6,6 +6,7 @@ public class gitclass {
 		// TODO Auto-generated method stub
 		
 System.out.println("Hey this is an introduction to github");
+System.out.println("Second step");
 	}
 
 }
