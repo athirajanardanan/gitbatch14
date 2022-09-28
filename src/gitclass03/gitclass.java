@@ -7,6 +7,7 @@ public class gitclass {
 		
 System.out.println("Hey this is an introduction to github");
 System.out.println("Second step");
+System.out.println("Third step");
 	}
 
 }
